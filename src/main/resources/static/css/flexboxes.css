@@ -1,0 +1,11 @@
+.inline {
+    background-color: tomato;
+    display: inline;
+}
+.block {
+    background-color: blue;
+    display: block;
+}
+.nostyle {
+    background-color: yellow;
+}

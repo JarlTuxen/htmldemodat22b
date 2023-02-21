@@ -15,6 +15,11 @@ public class MyController {
     public String myPicture(){
         return "picture";
     }
+
+    @GetMapping("/treeboxesdemo")
+    public String treeBoxesDemo(){
+        return "treeboxes";
+    }
     
 
 }
